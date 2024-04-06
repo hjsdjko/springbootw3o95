@@ -15,16 +15,8 @@ http://localhost:8080/springbootxs5o6/admin/dist/index.html
 	 url: jdbc:mysql://127.0.0.1:3306/springbootxs5o6?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
 	    username: root
 	    password: 123456 （数据库密码）
+     
+![2d15d05938dc64a8895cf965d19f329](https://github.com/hjsdjko/springbootw3o95/assets/120558513/fed877ad-d554-4a6d-aae3-10b322014164)
 
-![输入图片说明](855c8c55cf65e4b9ac3649b0d81d975.png)
+![855c8c55cf65e4b9ac3649b0d81d975](https://github.com/hjsdjko/springbootw3o95/assets/120558513/3d6a4499-3a04-458d-a8b5-b1f0fb993ed9)
 
-
-![输入图片说明](c6b320afc0a0ea467c845742797864a.png)
-
-![输入图片说明](430dfbc5235efc9ae09a883ee64f5fe.png)
-
-![输入图片说明](2d15d05938dc64a8895cf965d19f329.png)
-
-![输入图片说明](f90509eeca7fd8c4af2b6b100f32694.png)
-
-![输入图片说明](32fe8a64d90a097ce667c418b290c27.png)
